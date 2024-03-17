@@ -1,0 +1,7 @@
+{
+    "env": {
+        "DemoqaSite": "https://demoqa.com/login",
+        "Username": "TestUser",
+        "Password": "Password01!"
+    }
+}
